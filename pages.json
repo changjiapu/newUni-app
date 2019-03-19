@@ -3,17 +3,23 @@
 		{
 			"path": "pages/index/index",
 			"style": {
-				"navigationStyle": "custom"
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": false //禁用原生导航栏
+				}
 			}
 		},
 		{
-			"path": "pages/cart/cart"
-
+			"path": "pages/cart/cart",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "购物车"
+			}
 		}
 	],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "uni-app",
+		"navigationBarTitleText": "购物车",
 		"navigationBarBackgroundColor": "#F8F8F8",
 		"backgroundColor": "#F8F8F8"
 	},

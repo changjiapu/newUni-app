@@ -1,6 +1,6 @@
 <template>
 	<view class="content">
-		aaa
+<!-- 		aaa -->
 <!--       <image class="logo" src="../../static/logo.png"></image> -->
 		<view>
             <text class="title">{{title}}</text>
@@ -9,6 +9,7 @@
 </template>
 
 <script>
+	import{getUserInfo} from'@/request/API/index.js'
 	export default {
 		data() {
 			return {
@@ -16,7 +17,10 @@
 			}
 		},
 		onLoad() {
-
+			console.log(222)
+			getUserInfo().then(res=>{
+				console.log(res)
+			})
 		},
 		methods: {
 

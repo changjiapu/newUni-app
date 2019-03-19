@@ -1,9 +1,9 @@
-const baseUrl=''
+const baseUrl='http://114.115.211.170:8080/web/'
 export function postRequest(data,url) {
 	return new Promise((resolve, reject) => {
 		uni.request({
 			url: baseUrl+url, 
-			method:post,
+			method:'post',
 			data: {
 				...data
 			},
@@ -18,13 +18,15 @@ export function postRequest(data,url) {
 }
 export function getRequest(url) {
 	return new Promise((resolve, reject) => {
+			//uni.showLoading()
 		uni.request({
 			url: baseUrl+url, 
-			method:get,
+			method:'get',
 			header: {
 				'content-type': 'application/x-www-form-urlencoded'
 			},
 			success: (res) => {
+			// uni.hideLoading()
 				resolve(res)
 			}
 		});
