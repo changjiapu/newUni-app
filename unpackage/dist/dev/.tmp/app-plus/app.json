@@ -1,13 +1,14 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/cart/cart"
+    "pages/cart/cart",
+    "pages/order/order",
+    "pages/userCenter/userCenter"
   ],
   "subPackages": [],
   "window": {
-    "navigationStyle": "custom",
     "navigationBarTextStyle": "black",
-    "navigationBarTitleText": "",
+    "navigationBarTitleText": "购物车",
     "navigationBarBackgroundColor": "#F8F8F8",
     "backgroundColor": "#F8F8F8"
   },
@@ -20,15 +21,27 @@
     "list": [
       {
         "pagePath": "pages/index/index",
-        "iconPath": "static/images/logo.png",
-        "selectedIconPath": "static/images/logo.png",
+        "iconPath": "static/home/shouye_44.png",
+        "selectedIconPath": "static/home/shouye_44.png",
         "text": "首页"
       },
       {
         "pagePath": "pages/cart/cart",
-        "iconPath": "static/images/logo.png",
-        "selectedIconPath": "static/images/lwogo.png",
+        "iconPath": "static/home/gouwuche_46.png",
+        "selectedIconPath": "static/images/logo.png",
         "text": "购物车"
+      },
+      {
+        "pagePath": "pages/order/order",
+        "iconPath": "static/home/dingdan_49.png",
+        "selectedIconPath": "static/images/logo.png",
+        "text": "订单"
+      },
+      {
+        "pagePath": "pages/userCenter/userCenter",
+        "iconPath": "static/home/wode_49.png",
+        "selectedIconPath": "static/images/logo.png",
+        "text": "订单"
       }
     ]
   },
@@ -36,5 +49,6 @@
     "alwaysShowBeforeRender": true,
     "autoclose": false
   },
-  "appname": "bbb"
+  "appname": "bbb",
+  "compilerVersion": "1.8.1"
 }

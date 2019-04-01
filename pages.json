@@ -15,6 +15,20 @@
 				"navigationStyle": "custom",
 				"navigationBarTitleText": "购物车"
 			}
+		},
+		{
+			"path": "pages/order/order",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "我的订单"
+			}
+		},
+		{
+			"path": "pages/userCenter/userCenter",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "个人中心"
+			}
 		}
 	],
 	"globalStyle": {
@@ -29,15 +43,28 @@
 		"borderStyle": "black",
 		"backgroundColor": "#ffffff",
 		"list": [{
-			"pagePath": "pages/index/index",
-			"iconPath": "static/images/logo.png",
-			"selectedIconPath": "static/images/logo.png",
-			"text": "首页"
-		}, {
-			"pagePath": "pages/cart/cart",
-			"iconPath": "static/images/logo.png",
-			"selectedIconPath": "static/images/logo.png",
-			"text": "购物车"
-		}]
+				"pagePath": "pages/index/index",
+				"iconPath": "static/home/shouye_44.png",
+				"selectedIconPath": "static/home/shouye_44.png",
+				"text": "首页"
+			}, {
+				"pagePath": "pages/cart/cart",
+				"iconPath": "static/home/gouwuche_46.png",
+				"selectedIconPath": "static/images/logo.png",
+				"text": "购物车"
+			},
+			{
+				"pagePath": "pages/order/order",
+				"iconPath": "static/home/dingdan_49.png",
+				"selectedIconPath": "static/images/logo.png",
+				"text": "订单"
+			},
+			{
+				"pagePath": "pages/userCenter/userCenter",
+				"iconPath": "static/home/wode_49.png",
+				"selectedIconPath": "static/images/logo.png",
+				"text": "订单"
+			}
+		]
 	}
 }

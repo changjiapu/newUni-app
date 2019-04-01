@@ -54,7 +54,8 @@
         /* 小程序特有相关 */
         "appid" : "",
         "setting" : {
-            "urlCheck" : true
+            "urlCheck" : true,
+            "postcss" : true
         }
     }
 }
