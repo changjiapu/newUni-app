@@ -29,6 +29,28 @@
 				"navigationStyle": "custom",
 				"navigationBarTitleText": "个人中心"
 			}
+		},
+		{
+			"path": "pages/suiguo_shop/suiguo_shop",
+			"style": {
+				"navigationBarTitleText": "水果店铺"
+			}
+
+		},
+		{
+			"path": "pages/suiguo_list/suiguo_list",
+			"style": {
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": false //禁用原生导航栏
+				}
+			}
+		},
+		{
+			"path": "pages/product_detaill/product_detaill",
+			"style": {
+				"navigationBarTitleText": "商品详情"
+			}
 		}
 	],
 	"globalStyle": {
@@ -50,13 +72,13 @@
 			}, {
 				"pagePath": "pages/cart/cart",
 				"iconPath": "static/home/gouwuche_46.png",
-				"selectedIconPath": "static/images/logo.png",
+				"selectedIconPath": "",
 				"text": "购物车"
 			},
 			{
 				"pagePath": "pages/order/order",
 				"iconPath": "static/home/dingdan_49.png",
-				"selectedIconPath": "static/images/logo.png",
+				"selectedIconPath": "static/home/caomei_16.png",
 				"text": "订单"
 			},
 			{

@@ -1132,7 +1132,10 @@ Z([3,'index'])
 Z([3,'item'])
 Z([1,8])
 Z(z[44])
+Z([3,'handleProxy'])
 Z([3,'_view data-v-2ada3828 item'])
+Z([[7],[3,'$k']])
+Z([[2,'+'],[1,'6beb95fd-0-'],[[7],[3,'index']]])
 Z([[7],[3,'index']])
 Z(z[4])
 Z([3,'../../static/home/shuoguo_14.png'])
@@ -1148,11 +1151,11 @@ Z(z[44])
 Z(z[45])
 Z([1,6])
 Z(z[44])
-Z([3,'handleProxy'])
+Z(z[48])
 Z([3,'_view data-v-2ada3828 list-item'])
-Z([[7],[3,'$k']])
-Z([[2,'+'],[1,'6beb95fd-0-'],[[7],[3,'index']]])
-Z(z[49])
+Z(z[50])
+Z([[2,'+'],[1,'6beb95fd-1-'],[[7],[3,'index']]])
+Z(z[52])
 Z(z[4])
 Z(z[35])
 Z([3,'_view data-v-2ada3828 list_msg'])
@@ -1184,19 +1187,19 @@ Z(z[4])
 Z(z[28])
 Z(z[23])
 Z(z[4])
-Z(z[84])
-Z(z[54])
+Z(z[87])
+Z(z[57])
 Z(z[6])
 Z([3,'新品推荐'])
 Z(z[6])
-Z(z[58])
+Z(z[61])
 Z([3,'_view data-v-2ada3828 product_list'])
 Z(z[44])
 Z(z[45])
-Z(z[62])
+Z(z[65])
 Z(z[44])
 Z([3,'_view data-v-2ada3828 list_item'])
-Z(z[49])
+Z(z[52])
 Z(z[4])
 Z([3,'../../static/home/roushi_27.png'])
 Z(z[6])
@@ -1207,19 +1210,19 @@ Z([3,'_view data-v-2ada3828 price'])
 Z(z[6])
 Z([3,'￥299元'])
 Z(z[4])
-Z(z[79])
-Z(z[54])
+Z(z[82])
+Z(z[57])
 Z(z[6])
 Z([3,'热门店铺'])
 Z(z[6])
-Z(z[58])
+Z(z[61])
 Z([3,'_view data-v-2ada3828 shop_list'])
 Z(z[44])
 Z(z[45])
 Z([1,3])
 Z(z[44])
-Z(z[111])
-Z(z[49])
+Z(z[114])
+Z(z[52])
 Z(z[4])
 Z([3,'../../static/home/dianpu_img.jpg'])
 Z([3,'_view data-v-2ada3828 shop_msg'])
@@ -1262,8 +1265,8 @@ function gz$gwx_8(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_8)return __WXML_GLOBAL__.ops_cached.$gwx_8
 __WXML_GLOBAL__.ops_cached.$gwx_8=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
-Z([3,'0e67f7d2'])
-Z([3,'_view data-v-55e79446 content'])
+Z([3,'0570946f'])
+Z([3,'_view data-v-5b6b07de content'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_8);return __WXML_GLOBAL__.ops_cached.$gwx_8
 }
 function gz$gwx_9(){
@@ -1271,14 +1274,118 @@ if( __WXML_GLOBAL__.ops_cached.$gwx_9)return __WXML_GLOBAL__.ops_cached.$gwx_9
 __WXML_GLOBAL__.ops_cached.$gwx_9=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
 Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
-Z([3,'0e67f7d2'])
+Z([3,'0570946f'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_9);return __WXML_GLOBAL__.ops_cached.$gwx_9
+}
+function gz$gwx_10(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_10)return __WXML_GLOBAL__.ops_cached.$gwx_10
+__WXML_GLOBAL__.ops_cached.$gwx_10=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
+Z([3,'304068df'])
+Z([3,'_view data-v-71e06b4e content'])
+Z([3,'_view data-v-71e06b4e head'])
+Z([3,'handleProxy'])
+Z([3,'_view data-v-71e06b4e left'])
+Z([[7],[3,'$k']])
+Z([1,'304068df-0'])
+Z([3,'_image data-v-71e06b4e'])
+Z([3,'../../static/home/xiangzuofanhui_03.png'])
+Z([3,'_view data-v-71e06b4e input'])
+Z(z[7])
+Z([3,'../../static/home/sousuo_06.png'])
+Z([3,'_input data-v-71e06b4e'])
+Z([3,'请输入要搜索的商品或店铺'])
+Z([3,'text'])
+Z([3,''])
+Z([3,'_view data-v-71e06b4e title'])
+Z([3,'_text data-v-71e06b4e'])
+Z([3,'全部商品'])
+Z(z[17])
+Z([3,'价格排序'])
+Z([3,'_view data-v-71e06b4e scroll-view'])
+Z([3,'index'])
+Z([3,'item'])
+Z([1,6])
+Z(z[22])
+Z(z[3])
+Z([3,'_view data-v-71e06b4e list-item'])
+Z(z[5])
+Z([[2,'+'],[1,'304068df-1-'],[[7],[3,'index']]])
+Z([[7],[3,'index']])
+Z(z[7])
+Z([3,'../../static/home/tongzhi_03.png'])
+Z([3,'_view data-v-71e06b4e list_msg'])
+Z(z[17])
+Z([3,'新鲜黄瓜'])
+Z(z[17])
+Z([3,'新鲜蔬菜商品详情'])
+Z(z[17])
+Z([3,'￥2.5元/斤'])
+Z([3,'_image data-v-71e06b4e cart'])
+Z([3,'../../static/home/gouwuche_44.png'])
+})(__WXML_GLOBAL__.ops_cached.$gwx_10);return __WXML_GLOBAL__.ops_cached.$gwx_10
+}
+function gz$gwx_11(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_11)return __WXML_GLOBAL__.ops_cached.$gwx_11
+__WXML_GLOBAL__.ops_cached.$gwx_11=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
+Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
+Z([3,'304068df'])
+})(__WXML_GLOBAL__.ops_cached.$gwx_11);return __WXML_GLOBAL__.ops_cached.$gwx_11
+}
+function gz$gwx_12(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_12)return __WXML_GLOBAL__.ops_cached.$gwx_12
+__WXML_GLOBAL__.ops_cached.$gwx_12=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
+Z([3,'803c0ce2'])
+Z([3,'_view data-v-3fea23fe suiguo_shop'])
+Z([3,'index'])
+Z([3,'item'])
+Z([1,6])
+Z(z[2])
+Z([3,'handleProxy'])
+Z([3,'_view data-v-3fea23fe shop_list'])
+Z([[7],[3,'$k']])
+Z([[2,'+'],[1,'803c0ce2-0-'],[[7],[3,'index']]])
+Z([[7],[3,'index']])
+Z([3,'_image data-v-3fea23fe'])
+Z([3,'../../static/home/guoshuhaoduomei_12.png'])
+Z([3,'_view data-v-3fea23fe shop_msg'])
+Z([3,'_text data-v-3fea23fe'])
+Z([3,'鲜果时光超市'])
+Z(z[14])
+Z([3,'我们店铺已经营业，长达8年之久，都是好东西，欢迎大家来选购'])
+})(__WXML_GLOBAL__.ops_cached.$gwx_12);return __WXML_GLOBAL__.ops_cached.$gwx_12
+}
+function gz$gwx_13(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_13)return __WXML_GLOBAL__.ops_cached.$gwx_13
+__WXML_GLOBAL__.ops_cached.$gwx_13=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
+Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
+Z([3,'803c0ce2'])
+})(__WXML_GLOBAL__.ops_cached.$gwx_13);return __WXML_GLOBAL__.ops_cached.$gwx_13
+}
+function gz$gwx_14(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_14)return __WXML_GLOBAL__.ops_cached.$gwx_14
+__WXML_GLOBAL__.ops_cached.$gwx_14=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
+Z([3,'0e67f7d2'])
+Z([3,'_view data-v-55e79446 content'])
+})(__WXML_GLOBAL__.ops_cached.$gwx_14);return __WXML_GLOBAL__.ops_cached.$gwx_14
+}
+function gz$gwx_15(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_15)return __WXML_GLOBAL__.ops_cached.$gwx_15
+__WXML_GLOBAL__.ops_cached.$gwx_15=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
+Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
+Z([3,'0e67f7d2'])
+})(__WXML_GLOBAL__.ops_cached.$gwx_15);return __WXML_GLOBAL__.ops_cached.$gwx_15
 }
 __WXML_GLOBAL__.ops_set.$gwx=z;
 __WXML_GLOBAL__.ops_init.$gwx=true;
 var nv_require=function(){var nnm={};var nom={};return function(n){return function(){if(!nnm[n]) return undefined;try{if(!nom[n])nom[n]=nnm[n]();return nom[n];}catch(e){e.message=e.message.replace(/nv_/g,'');var tmp = e.stack.substring(0,e.stack.lastIndexOf(n));e.stack = tmp.substring(0,tmp.lastIndexOf('\n'));e.stack = e.stack.replace(/\snv_/g,' ');e.stack = $gstack(e.stack);e.stack += '\n    at ' + n.substring(2);console.error(e);}
 }}}()
-var x=['./common/slots.wxml','./pages/cart/cart.vue.wxml','./pages/cart/cart.wxml','./cart.vue.wxml','./pages/index/index.vue.wxml','./pages/index/index.wxml','./index.vue.wxml','./pages/order/order.vue.wxml','./pages/order/order.wxml','./order.vue.wxml','./pages/userCenter/userCenter.vue.wxml','./pages/userCenter/userCenter.wxml','./userCenter.vue.wxml'];d_[x[0]]={}
+var x=['./common/slots.wxml','./pages/cart/cart.vue.wxml','./pages/cart/cart.wxml','./cart.vue.wxml','./pages/index/index.vue.wxml','./pages/index/index.wxml','./index.vue.wxml','./pages/order/order.vue.wxml','./pages/order/order.wxml','./order.vue.wxml','./pages/product_detaill/product_detaill.vue.wxml','./pages/product_detaill/product_detaill.wxml','./product_detaill.vue.wxml','./pages/suiguo_list/suiguo_list.vue.wxml','./pages/suiguo_list/suiguo_list.wxml','./suiguo_list.vue.wxml','./pages/suiguo_shop/suiguo_shop.vue.wxml','./pages/suiguo_shop/suiguo_shop.wxml','./suiguo_shop.vue.wxml','./pages/userCenter/userCenter.vue.wxml','./pages/userCenter/userCenter.wxml','./userCenter.vue.wxml'];d_[x[0]]={}
 var m0=function(e,s,r,gg){
 var z=gz$gwx_1()
 return r
@@ -1464,15 +1571,15 @@ _(b3,o4)
 cs.push("./pages/index/index.vue.wxml:view:1:1870")
 var x5=function(f7,o6,c8,gg){
 cs.push("./pages/index/index.vue.wxml:view:1:1870")
-var o0=_mz(z,'view',['class',48,'key',1],[],f7,o6,gg)
-cs.push("./pages/index/index.vue.wxml:image:1:1997")
-var cAB=_mz(z,'image',['mode',-1,'class',50,'src',1],[],f7,o6,gg)
+var o0=_mz(z,'view',['bindtap',48,'class',1,'data-comkey',2,'data-eventid',3,'key',4],[],f7,o6,gg)
+cs.push("./pages/index/index.vue.wxml:image:1:2079")
+var cAB=_mz(z,'image',['mode',-1,'class',53,'src',1],[],f7,o6,gg)
 cs.pop()
 _(o0,cAB)
-cs.push("./pages/index/index.vue.wxml:text:1:2087")
+cs.push("./pages/index/index.vue.wxml:text:1:2169")
 var oBB=_n('text')
-_rz(z,oBB,'class',52,f7,o6,gg)
-var lCB=_oz(z,53,f7,o6,gg)
+_rz(z,oBB,'class',55,f7,o6,gg)
+var lCB=_oz(z,56,f7,o6,gg)
 _(oBB,lCB)
 cs.pop()
 _(o0,oBB)
@@ -1485,63 +1592,63 @@ _2z(z,46,x5,e,s,gg,o4,'item','index','index')
 cs.pop()
 cs.pop()
 _(oB,b3)
-cs.push("./pages/index/index.vue.wxml:view:1:2150")
+cs.push("./pages/index/index.vue.wxml:view:1:2232")
 var aDB=_n('view')
-_rz(z,aDB,'class',54,e,s,gg)
-cs.push("./pages/index/index.vue.wxml:text:1:2200")
+_rz(z,aDB,'class',57,e,s,gg)
+cs.push("./pages/index/index.vue.wxml:text:1:2282")
 var tEB=_n('text')
-_rz(z,tEB,'class',55,e,s,gg)
-var eFB=_oz(z,56,e,s,gg)
+_rz(z,tEB,'class',58,e,s,gg)
+var eFB=_oz(z,59,e,s,gg)
 _(tEB,eFB)
 cs.pop()
 _(aDB,tEB)
-cs.push("./pages/index/index.vue.wxml:text:1:2255")
+cs.push("./pages/index/index.vue.wxml:text:1:2337")
 var bGB=_n('text')
-_rz(z,bGB,'class',57,e,s,gg)
-var oHB=_oz(z,58,e,s,gg)
+_rz(z,bGB,'class',60,e,s,gg)
+var oHB=_oz(z,61,e,s,gg)
 _(bGB,oHB)
 cs.pop()
 _(aDB,bGB)
 cs.pop()
 _(oB,aDB)
-cs.push("./pages/index/index.vue.wxml:scroll-view:1:2313")
-var xIB=_mz(z,'scroll-view',['scrollX',-1,'class',59],[],e,s,gg)
+cs.push("./pages/index/index.vue.wxml:scroll-view:1:2395")
+var xIB=_mz(z,'scroll-view',['scrollX',-1,'class',62],[],e,s,gg)
 var oJB=_v()
 _(xIB,oJB)
-cs.push("./pages/index/index.vue.wxml:view:1:2384")
+cs.push("./pages/index/index.vue.wxml:view:1:2466")
 var fKB=function(hMB,cLB,oNB,gg){
-cs.push("./pages/index/index.vue.wxml:view:1:2384")
-var oPB=_mz(z,'view',['bindtap',64,'class',1,'data-comkey',2,'data-eventid',3,'key',4],[],hMB,cLB,gg)
-cs.push("./pages/index/index.vue.wxml:image:1:2598")
-var lQB=_mz(z,'image',['mode',-1,'class',69,'src',1],[],hMB,cLB,gg)
+cs.push("./pages/index/index.vue.wxml:view:1:2466")
+var oPB=_mz(z,'view',['bindtap',67,'class',1,'data-comkey',2,'data-eventid',3,'key',4],[],hMB,cLB,gg)
+cs.push("./pages/index/index.vue.wxml:image:1:2680")
+var lQB=_mz(z,'image',['mode',-1,'class',72,'src',1],[],hMB,cLB,gg)
 cs.pop()
 _(oPB,lQB)
-cs.push("./pages/index/index.vue.wxml:view:1:2688")
+cs.push("./pages/index/index.vue.wxml:view:1:2770")
 var aRB=_n('view')
-_rz(z,aRB,'class',71,hMB,cLB,gg)
-cs.push("./pages/index/index.vue.wxml:text:1:2733")
+_rz(z,aRB,'class',74,hMB,cLB,gg)
+cs.push("./pages/index/index.vue.wxml:text:1:2815")
 var tSB=_n('text')
-_rz(z,tSB,'class',72,hMB,cLB,gg)
-var eTB=_oz(z,73,hMB,cLB,gg)
+_rz(z,tSB,'class',75,hMB,cLB,gg)
+var eTB=_oz(z,76,hMB,cLB,gg)
 _(tSB,eTB)
 cs.pop()
 _(aRB,tSB)
-cs.push("./pages/index/index.vue.wxml:text:1:2788")
+cs.push("./pages/index/index.vue.wxml:text:1:2870")
 var bUB=_n('text')
-_rz(z,bUB,'class',74,hMB,cLB,gg)
-var oVB=_oz(z,75,hMB,cLB,gg)
+_rz(z,bUB,'class',77,hMB,cLB,gg)
+var oVB=_oz(z,78,hMB,cLB,gg)
 _(bUB,oVB)
 cs.pop()
 _(aRB,bUB)
-cs.push("./pages/index/index.vue.wxml:text:1:2855")
+cs.push("./pages/index/index.vue.wxml:text:1:2937")
 var xWB=_n('text')
-_rz(z,xWB,'class',76,hMB,cLB,gg)
-var oXB=_oz(z,77,hMB,cLB,gg)
+_rz(z,xWB,'class',79,hMB,cLB,gg)
+var oXB=_oz(z,80,hMB,cLB,gg)
 _(xWB,oXB)
 cs.pop()
 _(aRB,xWB)
-cs.push("./pages/index/index.vue.wxml:image:1:2911")
-var fYB=_mz(z,'image',['mode',-1,'class',78,'src',1],[],hMB,cLB,gg)
+cs.push("./pages/index/index.vue.wxml:image:1:2993")
+var fYB=_mz(z,'image',['mode',-1,'class',81,'src',1],[],hMB,cLB,gg)
 cs.pop()
 _(aRB,fYB)
 cs.pop()
@@ -1551,59 +1658,59 @@ _(oNB,oPB)
 return oNB
 }
 oJB.wxXCkey=2
-_2z(z,62,fKB,e,s,gg,oJB,'item','index','index')
+_2z(z,65,fKB,e,s,gg,oJB,'item','index','index')
 cs.pop()
 cs.pop()
 _(oB,xIB)
-cs.push("./pages/index/index.vue.wxml:view:1:3035")
+cs.push("./pages/index/index.vue.wxml:view:1:3117")
 var cZB=_n('view')
-_rz(z,cZB,'class',80,e,s,gg)
+_rz(z,cZB,'class',83,e,s,gg)
 cs.pop()
 _(oB,cZB)
-cs.push("./pages/index/index.vue.wxml:view:1:3085")
+cs.push("./pages/index/index.vue.wxml:view:1:3167")
 var h1B=_n('view')
-_rz(z,h1B,'class',81,e,s,gg)
-cs.push("./pages/index/index.vue.wxml:view:1:3131")
+_rz(z,h1B,'class',84,e,s,gg)
+cs.push("./pages/index/index.vue.wxml:view:1:3213")
 var o2B=_n('view')
-_rz(z,o2B,'class',82,e,s,gg)
-cs.push("./pages/index/index.vue.wxml:image:1:3173")
-var c3B=_mz(z,'image',['mode',-1,'class',83,'src',1],[],e,s,gg)
+_rz(z,o2B,'class',85,e,s,gg)
+cs.push("./pages/index/index.vue.wxml:image:1:3255")
+var c3B=_mz(z,'image',['mode',-1,'class',86,'src',1],[],e,s,gg)
 cs.pop()
 _(o2B,c3B)
-cs.push("./pages/index/index.vue.wxml:text:1:3270")
+cs.push("./pages/index/index.vue.wxml:text:1:3352")
 var o4B=_n('text')
-_rz(z,o4B,'class',85,e,s,gg)
-var l5B=_oz(z,86,e,s,gg)
+_rz(z,o4B,'class',88,e,s,gg)
+var l5B=_oz(z,89,e,s,gg)
 _(o4B,l5B)
 cs.pop()
 _(o2B,o4B)
 cs.pop()
 _(h1B,o2B)
-cs.push("./pages/index/index.vue.wxml:swiper:1:3338")
-var a6B=_mz(z,'swiper',['autoplay',87,'class',1,'duration',2,'indicatorDots',3,'interval',4],[],e,s,gg)
-cs.push("./pages/index/index.vue.wxml:swiper-item:1:3481")
+cs.push("./pages/index/index.vue.wxml:swiper:1:3420")
+var a6B=_mz(z,'swiper',['autoplay',90,'class',1,'duration',2,'indicatorDots',3,'interval',4],[],e,s,gg)
+cs.push("./pages/index/index.vue.wxml:swiper-item:1:3563")
 var t7B=_n('swiper-item')
-_rz(z,t7B,'class',92,e,s,gg)
-cs.push("./pages/index/index.vue.wxml:image:1:3531")
-var e8B=_mz(z,'image',['mode',-1,'class',93,'src',1],[],e,s,gg)
+_rz(z,t7B,'class',95,e,s,gg)
+cs.push("./pages/index/index.vue.wxml:image:1:3613")
+var e8B=_mz(z,'image',['mode',-1,'class',96,'src',1],[],e,s,gg)
 cs.pop()
 _(t7B,e8B)
 cs.pop()
 _(a6B,t7B)
-cs.push("./pages/index/index.vue.wxml:swiper-item:1:3636")
+cs.push("./pages/index/index.vue.wxml:swiper-item:1:3718")
 var b9B=_n('swiper-item')
-_rz(z,b9B,'class',95,e,s,gg)
-cs.push("./pages/index/index.vue.wxml:image:1:3686")
-var o0B=_mz(z,'image',['mode',-1,'class',96,'src',1],[],e,s,gg)
+_rz(z,b9B,'class',98,e,s,gg)
+cs.push("./pages/index/index.vue.wxml:image:1:3768")
+var o0B=_mz(z,'image',['mode',-1,'class',99,'src',1],[],e,s,gg)
 cs.pop()
 _(b9B,o0B)
 cs.pop()
 _(a6B,b9B)
-cs.push("./pages/index/index.vue.wxml:swiper-item:1:3789")
+cs.push("./pages/index/index.vue.wxml:swiper-item:1:3871")
 var xAC=_n('swiper-item')
-_rz(z,xAC,'class',98,e,s,gg)
-cs.push("./pages/index/index.vue.wxml:image:1:3839")
-var oBC=_mz(z,'image',['mode',-1,'class',99,'src',1],[],e,s,gg)
+_rz(z,xAC,'class',101,e,s,gg)
+cs.push("./pages/index/index.vue.wxml:image:1:3921")
+var oBC=_mz(z,'image',['mode',-1,'class',102,'src',1],[],e,s,gg)
 cs.pop()
 _(xAC,oBC)
 cs.pop()
@@ -1612,64 +1719,64 @@ cs.pop()
 _(h1B,a6B)
 cs.pop()
 _(oB,h1B)
-cs.push("./pages/index/index.vue.wxml:view:1:3966")
+cs.push("./pages/index/index.vue.wxml:view:1:4048")
 var fCC=_n('view')
-_rz(z,fCC,'class',101,e,s,gg)
-cs.push("./pages/index/index.vue.wxml:text:1:4016")
+_rz(z,fCC,'class',104,e,s,gg)
+cs.push("./pages/index/index.vue.wxml:text:1:4098")
 var cDC=_n('text')
-_rz(z,cDC,'class',102,e,s,gg)
-var hEC=_oz(z,103,e,s,gg)
+_rz(z,cDC,'class',105,e,s,gg)
+var hEC=_oz(z,106,e,s,gg)
 _(cDC,hEC)
 cs.pop()
 _(fCC,cDC)
-cs.push("./pages/index/index.vue.wxml:text:1:4071")
+cs.push("./pages/index/index.vue.wxml:text:1:4153")
 var oFC=_n('text')
-_rz(z,oFC,'class',104,e,s,gg)
-var cGC=_oz(z,105,e,s,gg)
+_rz(z,oFC,'class',107,e,s,gg)
+var cGC=_oz(z,108,e,s,gg)
 _(oFC,cGC)
 cs.pop()
 _(fCC,oFC)
 cs.pop()
 _(oB,fCC)
-cs.push("./pages/index/index.vue.wxml:view:1:4129")
+cs.push("./pages/index/index.vue.wxml:view:1:4211")
 var oHC=_n('view')
-_rz(z,oHC,'class',106,e,s,gg)
+_rz(z,oHC,'class',109,e,s,gg)
 var lIC=_v()
 _(oHC,lIC)
-cs.push("./pages/index/index.vue.wxml:view:1:4178")
+cs.push("./pages/index/index.vue.wxml:view:1:4260")
 var aJC=function(eLC,tKC,bMC,gg){
-cs.push("./pages/index/index.vue.wxml:view:1:4178")
-var xOC=_mz(z,'view',['class',111,'key',1],[],eLC,tKC,gg)
-cs.push("./pages/index/index.vue.wxml:image:1:4310")
-var oPC=_mz(z,'image',['mode',-1,'class',113,'src',1],[],eLC,tKC,gg)
+cs.push("./pages/index/index.vue.wxml:view:1:4260")
+var xOC=_mz(z,'view',['class',114,'key',1],[],eLC,tKC,gg)
+cs.push("./pages/index/index.vue.wxml:image:1:4392")
+var oPC=_mz(z,'image',['mode',-1,'class',116,'src',1],[],eLC,tKC,gg)
 cs.pop()
 _(xOC,oPC)
-cs.push("./pages/index/index.vue.wxml:text:1:4399")
+cs.push("./pages/index/index.vue.wxml:text:1:4481")
 var fQC=_n('text')
-_rz(z,fQC,'class',115,eLC,tKC,gg)
-var cRC=_oz(z,116,eLC,tKC,gg)
+_rz(z,fQC,'class',118,eLC,tKC,gg)
+var cRC=_oz(z,119,eLC,tKC,gg)
 _(fQC,cRC)
 cs.pop()
 _(xOC,fQC)
-cs.push("./pages/index/index.vue.wxml:text:1:4448")
+cs.push("./pages/index/index.vue.wxml:text:1:4530")
 var hSC=_n('text')
-_rz(z,hSC,'class',117,eLC,tKC,gg)
-var oTC=_oz(z,118,eLC,tKC,gg)
+_rz(z,hSC,'class',120,eLC,tKC,gg)
+var oTC=_oz(z,121,eLC,tKC,gg)
 _(hSC,oTC)
 cs.pop()
 _(xOC,hSC)
-cs.push("./pages/index/index.vue.wxml:view:1:4506")
+cs.push("./pages/index/index.vue.wxml:view:1:4588")
 var cUC=_n('view')
-_rz(z,cUC,'class',119,eLC,tKC,gg)
-cs.push("./pages/index/index.vue.wxml:text:1:4548")
+_rz(z,cUC,'class',122,eLC,tKC,gg)
+cs.push("./pages/index/index.vue.wxml:text:1:4630")
 var oVC=_n('text')
-_rz(z,oVC,'class',120,eLC,tKC,gg)
-var lWC=_oz(z,121,eLC,tKC,gg)
+_rz(z,oVC,'class',123,eLC,tKC,gg)
+var lWC=_oz(z,124,eLC,tKC,gg)
 _(oVC,lWC)
 cs.pop()
 _(cUC,oVC)
-cs.push("./pages/index/index.vue.wxml:image:1:4600")
-var aXC=_mz(z,'image',['mode',-1,'class',122,'src',1],[],eLC,tKC,gg)
+cs.push("./pages/index/index.vue.wxml:image:1:4682")
+var aXC=_mz(z,'image',['mode',-1,'class',125,'src',1],[],eLC,tKC,gg)
 cs.pop()
 _(cUC,aXC)
 cs.pop()
@@ -1679,73 +1786,73 @@ _(bMC,xOC)
 return bMC
 }
 lIC.wxXCkey=2
-_2z(z,109,aJC,e,s,gg,lIC,'item','index','index')
+_2z(z,112,aJC,e,s,gg,lIC,'item','index','index')
 cs.pop()
 cs.pop()
 _(oB,oHC)
-cs.push("./pages/index/index.vue.wxml:view:1:4712")
+cs.push("./pages/index/index.vue.wxml:view:1:4794")
 var tYC=_n('view')
-_rz(z,tYC,'class',124,e,s,gg)
-cs.push("./pages/index/index.vue.wxml:text:1:4762")
+_rz(z,tYC,'class',127,e,s,gg)
+cs.push("./pages/index/index.vue.wxml:text:1:4844")
 var eZC=_n('text')
-_rz(z,eZC,'class',125,e,s,gg)
-var b1C=_oz(z,126,e,s,gg)
+_rz(z,eZC,'class',128,e,s,gg)
+var b1C=_oz(z,129,e,s,gg)
 _(eZC,b1C)
 cs.pop()
 _(tYC,eZC)
-cs.push("./pages/index/index.vue.wxml:text:1:4817")
+cs.push("./pages/index/index.vue.wxml:text:1:4899")
 var o2C=_n('text')
-_rz(z,o2C,'class',127,e,s,gg)
-var x3C=_oz(z,128,e,s,gg)
+_rz(z,o2C,'class',130,e,s,gg)
+var x3C=_oz(z,131,e,s,gg)
 _(o2C,x3C)
 cs.pop()
 _(tYC,o2C)
 cs.pop()
 _(oB,tYC)
-cs.push("./pages/index/index.vue.wxml:view:1:4875")
+cs.push("./pages/index/index.vue.wxml:view:1:4957")
 var o4C=_n('view')
-_rz(z,o4C,'class',129,e,s,gg)
+_rz(z,o4C,'class',132,e,s,gg)
 var f5C=_v()
 _(o4C,f5C)
-cs.push("./pages/index/index.vue.wxml:view:1:4921")
+cs.push("./pages/index/index.vue.wxml:view:1:5003")
 var c6C=function(o8C,h7C,c9C,gg){
-cs.push("./pages/index/index.vue.wxml:view:1:4921")
-var lAD=_mz(z,'view',['class',134,'key',1],[],o8C,h7C,gg)
-cs.push("./pages/index/index.vue.wxml:image:1:5053")
-var aBD=_mz(z,'image',['mode',-1,'class',136,'src',1],[],o8C,h7C,gg)
+cs.push("./pages/index/index.vue.wxml:view:1:5003")
+var lAD=_mz(z,'view',['class',137,'key',1],[],o8C,h7C,gg)
+cs.push("./pages/index/index.vue.wxml:image:1:5135")
+var aBD=_mz(z,'image',['mode',-1,'class',139,'src',1],[],o8C,h7C,gg)
 cs.pop()
 _(lAD,aBD)
-cs.push("./pages/index/index.vue.wxml:view:1:5143")
+cs.push("./pages/index/index.vue.wxml:view:1:5225")
 var tCD=_n('view')
-_rz(z,tCD,'class',138,o8C,h7C,gg)
-cs.push("./pages/index/index.vue.wxml:text:1:5188")
+_rz(z,tCD,'class',141,o8C,h7C,gg)
+cs.push("./pages/index/index.vue.wxml:text:1:5270")
 var eDD=_n('text')
-_rz(z,eDD,'class',139,o8C,h7C,gg)
-var bED=_oz(z,140,o8C,h7C,gg)
+_rz(z,eDD,'class',142,o8C,h7C,gg)
+var bED=_oz(z,143,o8C,h7C,gg)
 _(eDD,bED)
 cs.pop()
 _(tCD,eDD)
-cs.push("./pages/index/index.vue.wxml:text:1:5249")
+cs.push("./pages/index/index.vue.wxml:text:1:5331")
 var oFD=_n('text')
-_rz(z,oFD,'class',141,o8C,h7C,gg)
-var xGD=_oz(z,142,o8C,h7C,gg)
+_rz(z,oFD,'class',144,o8C,h7C,gg)
+var xGD=_oz(z,145,o8C,h7C,gg)
 _(oFD,xGD)
 cs.pop()
 _(tCD,oFD)
-cs.push("./pages/index/index.vue.wxml:view:1:5390")
+cs.push("./pages/index/index.vue.wxml:view:1:5472")
 var oHD=_n('view')
-_rz(z,oHD,'class',143,o8C,h7C,gg)
-cs.push("./pages/index/index.vue.wxml:text:1:5430")
+_rz(z,oHD,'class',146,o8C,h7C,gg)
+cs.push("./pages/index/index.vue.wxml:text:1:5512")
 var fID=_n('text')
-_rz(z,fID,'class',144,o8C,h7C,gg)
-var cJD=_oz(z,145,o8C,h7C,gg)
+_rz(z,fID,'class',147,o8C,h7C,gg)
+var cJD=_oz(z,148,o8C,h7C,gg)
 _(fID,cJD)
 cs.pop()
 _(oHD,fID)
-cs.push("./pages/index/index.vue.wxml:text:1:5485")
+cs.push("./pages/index/index.vue.wxml:text:1:5567")
 var hKD=_n('text')
-_rz(z,hKD,'class',146,o8C,h7C,gg)
-var oLD=_oz(z,147,o8C,h7C,gg)
+_rz(z,hKD,'class',149,o8C,h7C,gg)
+var oLD=_oz(z,150,o8C,h7C,gg)
 _(hKD,oLD)
 cs.pop()
 _(oHD,hKD)
@@ -1758,7 +1865,7 @@ _(c9C,lAD)
 return c9C
 }
 f5C.wxXCkey=2
-_2z(z,132,c6C,e,s,gg,f5C,'item','index','index')
+_2z(z,135,c6C,e,s,gg,f5C,'item','index','index')
 cs.pop()
 cs.pop()
 _(oB,o4C)
@@ -1849,15 +1956,15 @@ return r
 }
 e_[x[8]]={f:m6,j:[],i:[],ti:[x[9]],ic:[]}
 d_[x[10]]={}
-d_[x[10]]["0e67f7d2"]=function(e,s,r,gg){
+d_[x[10]]["0570946f"]=function(e,s,r,gg){
 var z=gz$gwx_8()
-var b=x[10]+':0e67f7d2'
+var b=x[10]+':0570946f'
 r.wxVkey=b
-gg.f=$gdc(f_["./pages/userCenter/userCenter.vue.wxml"],"",1)
+gg.f=$gdc(f_["./pages/product_detaill/product_detaill.vue.wxml"],"",1)
 if(p_[b]){_wl(b,x[10]);return}
 p_[b]=true
 try{
-cs.push("./pages/userCenter/userCenter.vue.wxml:view:1:27")
+cs.push("./pages/product_detaill/product_detaill.vue.wxml:view:1:27")
 var oB=_n('view')
 _rz(z,oB,'class',1,e,s,gg)
 cs.pop()
@@ -1881,7 +1988,7 @@ var lY=e_[x[11]].i
 _ai(lY,x[12],e_,x[11],1,1)
 var aZ=_v()
 _(r,aZ)
-cs.push("./pages/userCenter/userCenter.wxml:template:2:6")
+cs.push("./pages/product_detaill/product_detaill.wxml:template:2:6")
 var t1=_oz(z,1,e,s,gg)
 var e2=_gd(x[11],t1,e_,d_)
 if(e2){
@@ -1897,6 +2004,286 @@ lY.pop()
 return r
 }
 e_[x[11]]={f:m8,j:[],i:[],ti:[x[12]],ic:[]}
+d_[x[13]]={}
+d_[x[13]]["304068df"]=function(e,s,r,gg){
+var z=gz$gwx_10()
+var b=x[13]+':304068df'
+r.wxVkey=b
+gg.f=$gdc(f_["./pages/suiguo_list/suiguo_list.vue.wxml"],"",1)
+if(p_[b]){_wl(b,x[13]);return}
+p_[b]=true
+try{
+cs.push("./pages/suiguo_list/suiguo_list.vue.wxml:view:1:27")
+var oB=_n('view')
+_rz(z,oB,'class',1,e,s,gg)
+cs.push("./pages/suiguo_list/suiguo_list.vue.wxml:view:1:71")
+var xC=_n('view')
+_rz(z,xC,'class',2,e,s,gg)
+cs.push("./pages/suiguo_list/suiguo_list.vue.wxml:view:1:112")
+var oD=_mz(z,'view',['bindtap',3,'class',1,'data-comkey',2,'data-eventid',3],[],e,s,gg)
+cs.push("./pages/suiguo_list/suiguo_list.vue.wxml:image:1:228")
+var fE=_mz(z,'image',['mode',-1,'class',7,'src',1],[],e,s,gg)
+cs.pop()
+_(oD,fE)
+cs.pop()
+_(xC,oD)
+cs.push("./pages/suiguo_list/suiguo_list.vue.wxml:view:1:332")
+var cF=_n('view')
+_rz(z,cF,'class',9,e,s,gg)
+cs.push("./pages/suiguo_list/suiguo_list.vue.wxml:image:1:374")
+var hG=_mz(z,'image',['mode',-1,'class',10,'src',1],[],e,s,gg)
+cs.pop()
+_(cF,hG)
+cs.push("./pages/suiguo_list/suiguo_list.vue.wxml:input:1:463")
+var oH=_mz(z,'input',['class',12,'placeholder',1,'type',2,'value',3],[],e,s,gg)
+cs.pop()
+_(cF,oH)
+cs.pop()
+_(xC,cF)
+cs.pop()
+_(oB,xC)
+cs.push("./pages/suiguo_list/suiguo_list.vue.wxml:view:1:589")
+var cI=_n('view')
+_rz(z,cI,'class',16,e,s,gg)
+cs.push("./pages/suiguo_list/suiguo_list.vue.wxml:text:1:631")
+var oJ=_n('text')
+_rz(z,oJ,'class',17,e,s,gg)
+var lK=_oz(z,18,e,s,gg)
+_(oJ,lK)
+cs.pop()
+_(cI,oJ)
+cs.push("./pages/suiguo_list/suiguo_list.vue.wxml:text:1:686")
+var aL=_n('text')
+_rz(z,aL,'class',19,e,s,gg)
+var tM=_oz(z,20,e,s,gg)
+_(aL,tM)
+cs.pop()
+_(cI,aL)
+cs.pop()
+_(oB,cI)
+cs.push("./pages/suiguo_list/suiguo_list.vue.wxml:view:1:748")
+var eN=_n('view')
+_rz(z,eN,'class',21,e,s,gg)
+var bO=_v()
+_(eN,bO)
+cs.push("./pages/suiguo_list/suiguo_list.vue.wxml:view:1:796")
+var oP=function(oR,xQ,fS,gg){
+cs.push("./pages/suiguo_list/suiguo_list.vue.wxml:view:1:796")
+var hU=_mz(z,'view',['bindtap',26,'class',1,'data-comkey',2,'data-eventid',3,'key',4],[],oR,xQ,gg)
+cs.push("./pages/suiguo_list/suiguo_list.vue.wxml:image:1:1010")
+var oV=_mz(z,'image',['mode',-1,'class',31,'src',1],[],oR,xQ,gg)
+cs.pop()
+_(hU,oV)
+cs.push("./pages/suiguo_list/suiguo_list.vue.wxml:view:1:1100")
+var cW=_n('view')
+_rz(z,cW,'class',33,oR,xQ,gg)
+cs.push("./pages/suiguo_list/suiguo_list.vue.wxml:text:1:1145")
+var oX=_n('text')
+_rz(z,oX,'class',34,oR,xQ,gg)
+var lY=_oz(z,35,oR,xQ,gg)
+_(oX,lY)
+cs.pop()
+_(cW,oX)
+cs.push("./pages/suiguo_list/suiguo_list.vue.wxml:text:1:1200")
+var aZ=_n('text')
+_rz(z,aZ,'class',36,oR,xQ,gg)
+var t1=_oz(z,37,oR,xQ,gg)
+_(aZ,t1)
+cs.pop()
+_(cW,aZ)
+cs.push("./pages/suiguo_list/suiguo_list.vue.wxml:text:1:1267")
+var e2=_n('text')
+_rz(z,e2,'class',38,oR,xQ,gg)
+var b3=_oz(z,39,oR,xQ,gg)
+_(e2,b3)
+cs.pop()
+_(cW,e2)
+cs.push("./pages/suiguo_list/suiguo_list.vue.wxml:image:1:1323")
+var o4=_mz(z,'image',['mode',-1,'class',40,'src',1],[],oR,xQ,gg)
+cs.pop()
+_(cW,o4)
+cs.pop()
+_(hU,cW)
+cs.pop()
+_(fS,hU)
+return fS
+}
+bO.wxXCkey=2
+_2z(z,24,oP,e,s,gg,bO,'item','index','index')
+cs.pop()
+cs.pop()
+_(oB,eN)
+cs.pop()
+_(r,oB)
+}catch(err){
+p_[b]=false
+throw err
+}
+p_[b]=false
+return r
+}
+var m9=function(e,s,r,gg){
+var z=gz$gwx_10()
+return r
+}
+e_[x[13]]={f:m9,j:[],i:[],ti:[],ic:[]}
+d_[x[14]]={}
+var m10=function(e,s,r,gg){
+var z=gz$gwx_11()
+var o6=e_[x[14]].i
+_ai(o6,x[15],e_,x[14],1,1)
+var f7=_v()
+_(r,f7)
+cs.push("./pages/suiguo_list/suiguo_list.wxml:template:2:6")
+var c8=_oz(z,1,e,s,gg)
+var h9=_gd(x[14],c8,e_,d_)
+if(h9){
+var o0=_1z(z,0,e,s,gg) || {}
+var cur_globalf=gg.f
+f7.wxXCkey=3
+h9(o0,o0,f7,gg)
+gg.f=cur_globalf
+}
+else _w(c8,x[14],2,18)
+cs.pop()
+o6.pop()
+return r
+}
+e_[x[14]]={f:m10,j:[],i:[],ti:[x[15]],ic:[]}
+d_[x[16]]={}
+d_[x[16]]["803c0ce2"]=function(e,s,r,gg){
+var z=gz$gwx_12()
+var b=x[16]+':803c0ce2'
+r.wxVkey=b
+gg.f=$gdc(f_["./pages/suiguo_shop/suiguo_shop.vue.wxml"],"",1)
+if(p_[b]){_wl(b,x[16]);return}
+p_[b]=true
+try{
+cs.push("./pages/suiguo_shop/suiguo_shop.vue.wxml:view:1:27")
+var oB=_n('view')
+_rz(z,oB,'class',1,e,s,gg)
+var xC=_v()
+_(oB,xC)
+cs.push("./pages/suiguo_shop/suiguo_shop.vue.wxml:view:1:75")
+var oD=function(cF,fE,hG,gg){
+cs.push("./pages/suiguo_shop/suiguo_shop.vue.wxml:view:1:75")
+var cI=_mz(z,'view',['bindtap',6,'class',1,'data-comkey',2,'data-eventid',3,'key',4],[],cF,fE,gg)
+cs.push("./pages/suiguo_shop/suiguo_shop.vue.wxml:image:1:289")
+var oJ=_mz(z,'image',['class',11,'src',1],[],cF,fE,gg)
+cs.pop()
+_(cI,oJ)
+cs.push("./pages/suiguo_shop/suiguo_shop.vue.wxml:view:1:382")
+var lK=_n('view')
+_rz(z,lK,'class',13,cF,fE,gg)
+cs.push("./pages/suiguo_shop/suiguo_shop.vue.wxml:text:1:427")
+var aL=_n('text')
+_rz(z,aL,'class',14,cF,fE,gg)
+var tM=_oz(z,15,cF,fE,gg)
+_(aL,tM)
+cs.pop()
+_(lK,aL)
+cs.push("./pages/suiguo_shop/suiguo_shop.vue.wxml:text:1:488")
+var eN=_n('text')
+_rz(z,eN,'class',16,cF,fE,gg)
+var bO=_oz(z,17,cF,fE,gg)
+_(eN,bO)
+cs.pop()
+_(lK,eN)
+cs.pop()
+_(cI,lK)
+cs.pop()
+_(hG,cI)
+return hG
+}
+xC.wxXCkey=2
+_2z(z,4,oD,e,s,gg,xC,'item','index','index')
+cs.pop()
+cs.pop()
+_(r,oB)
+}catch(err){
+p_[b]=false
+throw err
+}
+p_[b]=false
+return r
+}
+var m11=function(e,s,r,gg){
+var z=gz$gwx_12()
+return r
+}
+e_[x[16]]={f:m11,j:[],i:[],ti:[],ic:[]}
+d_[x[17]]={}
+var m12=function(e,s,r,gg){
+var z=gz$gwx_13()
+var lCB=e_[x[17]].i
+_ai(lCB,x[18],e_,x[17],1,1)
+var aDB=_v()
+_(r,aDB)
+cs.push("./pages/suiguo_shop/suiguo_shop.wxml:template:2:6")
+var tEB=_oz(z,1,e,s,gg)
+var eFB=_gd(x[17],tEB,e_,d_)
+if(eFB){
+var bGB=_1z(z,0,e,s,gg) || {}
+var cur_globalf=gg.f
+aDB.wxXCkey=3
+eFB(bGB,bGB,aDB,gg)
+gg.f=cur_globalf
+}
+else _w(tEB,x[17],2,18)
+cs.pop()
+lCB.pop()
+return r
+}
+e_[x[17]]={f:m12,j:[],i:[],ti:[x[18]],ic:[]}
+d_[x[19]]={}
+d_[x[19]]["0e67f7d2"]=function(e,s,r,gg){
+var z=gz$gwx_14()
+var b=x[19]+':0e67f7d2'
+r.wxVkey=b
+gg.f=$gdc(f_["./pages/userCenter/userCenter.vue.wxml"],"",1)
+if(p_[b]){_wl(b,x[19]);return}
+p_[b]=true
+try{
+cs.push("./pages/userCenter/userCenter.vue.wxml:view:1:27")
+var oB=_n('view')
+_rz(z,oB,'class',1,e,s,gg)
+cs.pop()
+_(r,oB)
+}catch(err){
+p_[b]=false
+throw err
+}
+p_[b]=false
+return r
+}
+var m13=function(e,s,r,gg){
+var z=gz$gwx_14()
+return r
+}
+e_[x[19]]={f:m13,j:[],i:[],ti:[],ic:[]}
+d_[x[20]]={}
+var m14=function(e,s,r,gg){
+var z=gz$gwx_15()
+var oJB=e_[x[20]].i
+_ai(oJB,x[21],e_,x[20],1,1)
+var fKB=_v()
+_(r,fKB)
+cs.push("./pages/userCenter/userCenter.wxml:template:2:6")
+var cLB=_oz(z,1,e,s,gg)
+var hMB=_gd(x[20],cLB,e_,d_)
+if(hMB){
+var oNB=_1z(z,0,e,s,gg) || {}
+var cur_globalf=gg.f
+fKB.wxXCkey=3
+hMB(oNB,oNB,fKB,gg)
+gg.f=cur_globalf
+}
+else _w(cLB,x[20],2,18)
+cs.pop()
+oJB.pop()
+return r
+}
+e_[x[20]]={f:m14,j:[],i:[],ti:[x[21]],ic:[]}
 if(path&&e_[path]){
 window.__wxml_comp_version__=0.02
 return function(env,dd,global){$gwxc=0;var root={"tag":"wx-page"};root.children=[]
@@ -2032,6 +2419,15 @@ __wxAppCode__['pages/index/index.wxml']=$gwx('./pages/index/index.wxml');
 
 __wxAppCode__['pages/order/order.wxss']=undefined;    
 __wxAppCode__['pages/order/order.wxml']=$gwx('./pages/order/order.wxml');
+
+__wxAppCode__['pages/product_detaill/product_detaill.wxss']=undefined;    
+__wxAppCode__['pages/product_detaill/product_detaill.wxml']=$gwx('./pages/product_detaill/product_detaill.wxml');
+
+__wxAppCode__['pages/suiguo_list/suiguo_list.wxss']=setCssToHead([".",[1],"content.",[1],"data-v-71e06b4e { font-size: ",[0,22],"; width: 100%; background-color: #f7f7f7; }\n.",[1],"content .",[1],"head.",[1],"data-v-71e06b4e { z-index: 999; background-color: #ffffff; position: fixed; top: 0; width: 100%; padding-top: ",[0,30],"; height: ",[0,150],"; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: center; -webkit-justify-content: center; -ms-flex-pack: center; justify-content: center; font-size: ",[0,30],"; color: #999999; }\n.",[1],"content .",[1],"head .",[1],"left.",[1],"data-v-71e06b4e { position: absolute; left: ",[0,30],"; height: ",[0,80],"; width: ",[0,80],"; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: center; -webkit-justify-content: center; -ms-flex-pack: center; justify-content: center; }\n.",[1],"content .",[1],"head .",[1],"left wx-image.",[1],"data-v-71e06b4e { height: ",[0,30],"; width: ",[0,30],"; }\n.",[1],"content .",[1],"head .",[1],"input.",[1],"data-v-71e06b4e { height: ",[0,80],"; width: 50%; font-size: ",[0,22],"; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center; background-color: #ebebeb; padding: 0 ",[0,20],"; border-radius: ",[0,10],"; }\n.",[1],"content .",[1],"head .",[1],"input wx-input.",[1],"data-v-71e06b4e { width: 100%; }\n.",[1],"content .",[1],"head .",[1],"input wx-image.",[1],"data-v-71e06b4e { height: ",[0,30],"; width: ",[0,30],"; }\n.",[1],"content .",[1],"head .",[1],"img.",[1],"data-v-71e06b4e { height: ",[0,80],"; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center; }\n.",[1],"content .",[1],"head .",[1],"img wx-image.",[1],"data-v-71e06b4e { height: ",[0,50],"; width: ",[0,50],"; }\n.",[1],"content .",[1],"title.",[1],"data-v-71e06b4e { position: fixed; top: ",[0,160],"; z-index: 999; height: upx; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; width: 100%; background-color: #ffffff; }\n.",[1],"content .",[1],"title wx-text.",[1],"data-v-71e06b4e { width: 50%; height: ",[0,80],"; line-height: ",[0,80],"; text-align: center; }\n.",[1],"content .",[1],"scroll-view.",[1],"data-v-71e06b4e { margin-top: ",[0,270],"; width: 100%; }\n.",[1],"content .",[1],"scroll-view .",[1],"list-item.",[1],"data-v-71e06b4e { margin-top: ",[0,25],"; display: inline-block; height: ",[0,400],"; width: ",[0,320],"; border-radius: ",[0,10],"; -webkit-box-shadow: ",[0,8]," ",[0,8]," ",[0,8]," #f3f3f3; box-shadow: ",[0,8]," ",[0,8]," ",[0,8]," #f3f3f3; margin-left: ",[0,35],"; }\n.",[1],"content .",[1],"scroll-view .",[1],"list-item wx-image.",[1],"data-v-71e06b4e { width: 100%; height: ",[0,220],"; }\n.",[1],"content .",[1],"scroll-view .",[1],"list-item .",[1],"list_msg.",[1],"data-v-71e06b4e { position: relative; width: 100%; -webkit-box-sizing: border-box; box-sizing: border-box; padding: ",[0,20]," ",[0,15],"; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -webkit-flex-direction: column; -ms-flex-direction: column; flex-direction: column; }\n.",[1],"content .",[1],"scroll-view .",[1],"list-item .",[1],"list_msg wx-text.",[1],"data-v-71e06b4e { margin-top: ",[0,5],"; }\n.",[1],"content .",[1],"scroll-view .",[1],"list-item .",[1],"list_msg wx-text.",[1],"data-v-71e06b4e:first-of-type { font-size: ",[0,30],"; }\n.",[1],"content .",[1],"scroll-view .",[1],"list-item .",[1],"list_msg wx-text.",[1],"data-v-71e06b4e:nth-of-type(2) { overflow: hidden; white-space: nowrap; -o-text-overflow: ellipsis; text-overflow: ellipsis; font-size: ",[0,22],"; color: #999999; }\n.",[1],"content .",[1],"scroll-view .",[1],"list-item .",[1],"list_msg wx-text.",[1],"data-v-71e06b4e:last-of-type { font-size: ",[0,28],"; color: #e35461; }\n.",[1],"content .",[1],"scroll-view .",[1],"list-item .",[1],"list_msg .",[1],"cart.",[1],"data-v-71e06b4e { position: absolute; bottom: ",[0,20],"; right: ",[0,20],"; height: ",[0,30],"; width: ",[0,30],"; }\n",],undefined,{path:"./pages/suiguo_list/suiguo_list.wxss"});    
+__wxAppCode__['pages/suiguo_list/suiguo_list.wxml']=$gwx('./pages/suiguo_list/suiguo_list.wxml');
+
+__wxAppCode__['pages/suiguo_shop/suiguo_shop.wxss']=setCssToHead([".",[1],"suiguo_shop.",[1],"data-v-3fea23fe { width: 100%; font-size: ",[0,26],"; background-color: #f7f7f7; }\n.",[1],"suiguo_shop .",[1],"shop_list.",[1],"data-v-3fea23fe { margin-top: ",[0,20],"; background-color: #ffffff; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center; height: ",[0,200],"; width: 100%; padding: ",[0,20],"; -webkit-box-sizing: border-box; box-sizing: border-box; }\n.",[1],"suiguo_shop .",[1],"shop_list wx-image.",[1],"data-v-3fea23fe { height: ",[0,150],"; width: ",[0,150],"; }\n.",[1],"suiguo_shop .",[1],"shop_list .",[1],"shop_msg.",[1],"data-v-3fea23fe { width: ",[0,500],"; margin-left: ",[0,20],"; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -webkit-flex-direction: column; -ms-flex-direction: column; flex-direction: column; }\n.",[1],"suiguo_shop .",[1],"shop_list .",[1],"shop_msg wx-text.",[1],"data-v-3fea23fe:first-of-type { font-weight: bold; }\n.",[1],"suiguo_shop .",[1],"shop_list .",[1],"shop_msg wx-text.",[1],"data-v-3fea23fe:last-of-type { margin-top: ",[0,15],"; color: #9e9e9e; }\n",],undefined,{path:"./pages/suiguo_shop/suiguo_shop.wxss"});    
+__wxAppCode__['pages/suiguo_shop/suiguo_shop.wxml']=$gwx('./pages/suiguo_shop/suiguo_shop.wxml');
 
 __wxAppCode__['pages/userCenter/userCenter.wxss']=undefined;    
 __wxAppCode__['pages/userCenter/userCenter.wxml']=$gwx('./pages/userCenter/userCenter.wxml');

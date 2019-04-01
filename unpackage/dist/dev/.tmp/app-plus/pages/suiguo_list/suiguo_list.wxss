@@ -1,0 +1,166 @@
+.content.data-v-71e06b4e {
+  font-size: 22rpx;
+  width: 100%;
+  background-color: #f7f7f7;
+}
+.content .head.data-v-71e06b4e {
+  z-index: 999;
+  background-color: #ffffff;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding-top: 30rpx;
+  height: 150rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-size: 30rpx;
+  color: #999999;
+}
+.content .head .left.data-v-71e06b4e {
+  position: absolute;
+  left: 30rpx;
+  height: 80rpx;
+  width: 80rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.content .head .left image.data-v-71e06b4e {
+  height: 30rpx;
+  width: 30rpx;
+}
+.content .head .input.data-v-71e06b4e {
+  height: 80rpx;
+  width: 50%;
+  font-size: 22rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: #ebebeb;
+  padding: 0 20rpx;
+  border-radius: 10rpx;
+}
+.content .head .input input.data-v-71e06b4e {
+  width: 100%;
+}
+.content .head .input image.data-v-71e06b4e {
+  height: 30rpx;
+  width: 30rpx;
+}
+.content .head .img.data-v-71e06b4e {
+  height: 80rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.content .head .img image.data-v-71e06b4e {
+  height: 50rpx;
+  width: 50rpx;
+}
+.content .title.data-v-71e06b4e {
+  position: fixed;
+  top: 160rpx;
+  z-index: 999;
+  height: upx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  background-color: #ffffff;
+}
+.content .title text.data-v-71e06b4e {
+  width: 50%;
+  height: 80rpx;
+  line-height: 80rpx;
+  text-align: center;
+}
+.content .scroll-view.data-v-71e06b4e {
+  margin-top: 270rpx;
+  width: 100%;
+}
+.content .scroll-view .list-item.data-v-71e06b4e {
+  margin-top: 25rpx;
+  display: inline-block;
+  height: 400rpx;
+  width: 320rpx;
+  border-radius: 10rpx;
+  -webkit-box-shadow: 8rpx 8rpx 8rpx #f3f3f3;
+          box-shadow: 8rpx 8rpx 8rpx #f3f3f3;
+  margin-left: 35rpx;
+}
+.content .scroll-view .list-item image.data-v-71e06b4e {
+  width: 100%;
+  height: 220rpx;
+}
+.content .scroll-view .list-item .list_msg.data-v-71e06b4e {
+  position: relative;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 20rpx 15rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.content .scroll-view .list-item .list_msg text.data-v-71e06b4e {
+  margin-top: 5rpx;
+}
+.content .scroll-view .list-item .list_msg text.data-v-71e06b4e:first-of-type {
+  font-size: 30rpx;
+}
+.content .scroll-view .list-item .list_msg text.data-v-71e06b4e:nth-of-type(2) {
+  overflow: hidden;
+  white-space: nowrap;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  font-size: 22rpx;
+  color: #999999;
+}
+.content .scroll-view .list-item .list_msg text.data-v-71e06b4e:last-of-type {
+  font-size: 28rpx;
+  color: #e35461;
+}
+.content .scroll-view .list-item .list_msg .cart.data-v-71e06b4e {
+  position: absolute;
+  bottom: 20rpx;
+  right: 20rpx;
+  height: 30rpx;
+  width: 30rpx;
+}
+

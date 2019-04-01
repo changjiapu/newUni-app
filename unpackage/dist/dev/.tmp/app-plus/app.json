@@ -3,7 +3,10 @@
     "pages/index/index",
     "pages/cart/cart",
     "pages/order/order",
-    "pages/userCenter/userCenter"
+    "pages/userCenter/userCenter",
+    "pages/suiguo_shop/suiguo_shop",
+    "pages/suiguo_list/suiguo_list",
+    "pages/product_detaill/product_detaill"
   ],
   "subPackages": [],
   "window": {
@@ -28,13 +31,13 @@
       {
         "pagePath": "pages/cart/cart",
         "iconPath": "static/home/gouwuche_46.png",
-        "selectedIconPath": "static/images/logo.png",
+        "selectedIconPath": "",
         "text": "购物车"
       },
       {
         "pagePath": "pages/order/order",
         "iconPath": "static/home/dingdan_49.png",
-        "selectedIconPath": "static/images/logo.png",
+        "selectedIconPath": "static/home/caomei_16.png",
         "text": "订单"
       },
       {

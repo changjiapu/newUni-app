@@ -28,7 +28,7 @@
 		</view>
 		<!-- 分类 -->
 		<view class="fenlei">
-			<view class="item" v-for="(item, index) in 8" :key="index">
+			<view class="item" v-for="(item, index) in 8" :key="index" @click="gotoShopList()">
 				<image src="../../static/home/shuoguo_14.png" mode=""></image>
 				<text>水果</text>
 			</view>
@@ -112,7 +112,12 @@ export default {
 		});
 	},
 	methods: {
-		gotoDetail() {}
+		gotoDetail() {},
+		gotoShopList(){
+			uni.navigateTo({
+					url: '/pages/suiguo_shop/suiguo_shop',
+				})
+		},
 	}
 };
 </script>

@@ -1,0 +1,47 @@
+.suiguo_shop.data-v-3fea23fe {
+  width: 100%;
+  font-size: 26rpx;
+  background-color: #f7f7f7;
+}
+.suiguo_shop .shop_list.data-v-3fea23fe {
+  margin-top: 20rpx;
+  background-color: #ffffff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 200rpx;
+  width: 100%;
+  padding: 20rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.suiguo_shop .shop_list image.data-v-3fea23fe {
+  height: 150rpx;
+  width: 150rpx;
+}
+.suiguo_shop .shop_list .shop_msg.data-v-3fea23fe {
+  width: 500rpx;
+  margin-left: 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.suiguo_shop .shop_list .shop_msg text.data-v-3fea23fe:first-of-type {
+  font-weight: bold;
+}
+.suiguo_shop .shop_list .shop_msg text.data-v-3fea23fe:last-of-type {
+  margin-top: 15rpx;
+  color: #9e9e9e;
+}
+
