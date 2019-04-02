@@ -31,8 +31,8 @@
 		<view class="bottom">
 			<image src="../../static/home/weixin_07.png" mode=""></image>
 			<image src="../../static/home/dianhua_07.png" mode="" @click="callUp"></image>
-			<text>加入购物车</text>
-			<text>立即下单</text>
+			<text @click="addCart()">加入购物车</text>
+			<text @click="gotoPay">立即下单</text>
 		</view>
 		<view class="bottomWindow" v-if="showGuige">
 			<view class="content">
@@ -85,9 +85,20 @@ export default {
 				phoneNumber: '1340000'
 			});
 		},
+		addCart() {
+			uni.showToast({
+				title: '加入购物车成功',
+				duration: 2000
+			});
+		},
 		sub() {},
 		add() {},
-		inputBuycount() {}
+		inputBuycount() {},
+		gotoPay() {
+			uni.navigateTo({
+				url: '/pages/confirmOrder/confirmOrder'
+			});
+		}
 	}
 };
 </script>

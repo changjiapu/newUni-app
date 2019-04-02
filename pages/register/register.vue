@@ -78,7 +78,7 @@ export default {
 		align-items: center;
 		justify-content: center;
 		color: #ffffff;
-		background-color:#ED7180;
+		background-color:#6d71d5;
 		border-radius: 10upx;
 	}
 }
