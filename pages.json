@@ -36,7 +36,6 @@
 		{
 			"path": "pages/userCenter/userCenter",
 			"style": {
-				"navigationStyle": "custom",
 				"navigationBarTitleText": "个人中心"
 			}
 		},
@@ -80,6 +79,24 @@
 			"style": {
 				"navigationBarTitleText": "申请售后"
 			}
+		},
+		{
+			"path": "pages/collect/collect",
+			"style": {
+				"navigationBarTitleText": "我的收藏"
+			}
+		},
+		{
+			"path": "pages/zhuji/zhuji",
+			"style": {
+				"navigationBarTitleText": "我的足迹"
+			}
+		},
+		{
+			"path": "pages/addressList/addressList",
+			"style": {
+				"navigationBarTitleText": "收货地址"
+			}
 		}, {
 			"path": "pages/comment/comment",
 			"style": {
@@ -88,10 +105,10 @@
 		}
 	],
 	"globalStyle": {
-		"navigationBarTextStyle": "black",
+		"navigationBarTextStyle": "white",
 		"navigationBarTitleText": "购物车",
-		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8"
+		"navigationBarBackgroundColor": "#6d71d5",
+		"backgroundColor": "#6d71d5"
 	},
 	"tabBar": {
 		"color": "#7A7E83",

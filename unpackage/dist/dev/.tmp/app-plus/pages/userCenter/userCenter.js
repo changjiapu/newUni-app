@@ -8,7 +8,7 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;\n\n\n\n\n\n\nvar _index = __webpack_require__(/*! @/request/API/index.js */ \"D:\\\\西港项目\\\\newUni-app\\\\request\\\\API\\\\index.js\");var _default =\n{\n  data: function data() {\n    return {\n      title: 'Hello' };\n\n  },\n  onLoad: function onLoad() {\n\n  },\n  methods: {} };exports.default = _default;\n\n//# sourceURL=uni-app:///pages/userCenter/userCenter.vue?vue&type=script&lang=js&?14fe");
+eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;\n\n\n\n\n\n\n\n\n\n\n\n\n\nvar _index = __webpack_require__(/*! @/request/API/index.js */ \"D:\\\\西港项目\\\\newUni-app\\\\request\\\\API\\\\index.js\");var _default =\n{\n  data: function data() {\n    return {};\n\n\n  },\n  onLoad: function onLoad() {\n\n  },\n  methods: {} };exports.default = _default;\n\n//# sourceURL=uni-app:///pages/userCenter/userCenter.vue?vue&type=script&lang=js&?14fe");
 
 /***/ }),
 
@@ -20,7 +20,7 @@ eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.de
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\"view\", { staticClass: \"content\" })\n}\nvar staticRenderFns = []\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/%E8%A5%BF%E6%B8%AF%E9%A1%B9%E7%9B%AE/newUni-app/pages/userCenter/userCenter.vue?vue&type=template&id=ed0aea10&scoped=true&");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _vm._m(0)\n}\nvar staticRenderFns = [\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"content\" }, [\n      _c(\"view\", { staticClass: \"head\" }, [\n        _c(\"image\", {\n          staticClass: \"img_1\",\n          attrs: { src: \"../../static/home/touxiang_03.png\", mode: \"\" }\n        }),\n        _c(\"view\", { staticClass: \"msg\" }, [\n          _c(\"text\", [_vm._v(\"孤芳不自赏\")]),\n          _c(\"text\", [_vm._v(\"自由坚持才能成功\")])\n        ]),\n        _c(\"image\", {\n          attrs: { src: \"../../static/home/gengduo_41.png\", mode: \"\" }\n        })\n      ])\n    ])\n  }\n]\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/%E8%A5%BF%E6%B8%AF%E9%A1%B9%E7%9B%AE/newUni-app/pages/userCenter/userCenter.vue?vue&type=template&id=ed0aea10&scoped=true&");
 
 /***/ }),
 

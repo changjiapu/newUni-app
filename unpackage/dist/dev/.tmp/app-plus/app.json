@@ -10,7 +10,9 @@
     "pages/suiguo_list/suiguo_list",
     "pages/product_detaill/product_detaill",
     "pages/confirmOrder/confirmOrder",
-    "pages/commentList/commentList"
+    "pages/commentList/commentList",
+    "pages/shouHou/shouHou",
+    "pages/comment/comment"
   ],
   "subPackages": [],
   "window": {
@@ -28,27 +30,27 @@
     "list": [
       {
         "pagePath": "pages/index/index",
-        "iconPath": "static/home/shouye_44.png",
-        "selectedIconPath": "static/home/shouye_44.png",
+        "iconPath": "static/home/dingdanweixuanzhong_09.png",
+        "selectedIconPath": "static/home/dingdanxuanzhong_09.png",
         "text": "首页"
       },
       {
         "pagePath": "pages/cart/cart",
-        "iconPath": "static/home/gouwuche_46.png",
-        "selectedIconPath": "static/home/gowuchexuanzhong_11.png",
+        "iconPath": "static/home/gouwucheweixuanzhong_06.png",
+        "selectedIconPath": "static/home/gouwucche_06.png",
         "text": "购物车"
       },
       {
         "pagePath": "pages/order/order",
-        "iconPath": "static/home/dingdan_49.png",
-        "selectedIconPath": "static/home/dingdanxuanzhong_03.jpg",
+        "iconPath": "static/home/dingdanweixuanzhong_09.png",
+        "selectedIconPath": "static/home/dingdanxuanzhong_09.png",
         "text": "订单"
       },
       {
         "pagePath": "pages/userCenter/userCenter",
-        "iconPath": "static/home/ ",
-        "selectedIconPath": "static/images/logo.png",
-        "text": "订单"
+        "iconPath": "static/home/wode_49.png",
+        "selectedIconPath": "static/home/wodexuanzhong_09.png",
+        "text": "我的"
       }
     ]
   },

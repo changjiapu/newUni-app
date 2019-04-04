@@ -97,7 +97,7 @@ export default {
 		height: 95upx;
 		line-height: 95upx;
 		width: 80%;
-		background-color:rgb(237, 113, 128);
+		background-color:#6d71d5;
 		margin: auto;
 		text-align: center;
 		border-radius: 10upx;

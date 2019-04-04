@@ -3,7 +3,7 @@
 		<view class="item" v-for="(item,index) in 6" :key="index">
 			<image class="h_img" src="../../static/home/roushi_27.png" mode=""></image>
 			<text>我叫马冬梅</text>
-			<image class="x_img" src="../../static/home/wujiaoxing_03.png" mode="" v-for="(item, index) in 5" :key="index"></image>
+			<image class="x_img" src="../../static/home/wujiaoxing_03.png" mode="" v-for="(item, index2) in 5" :key="index2"></image>
 		</view>
 	</view>
 </template>
