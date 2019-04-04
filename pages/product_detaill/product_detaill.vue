@@ -26,8 +26,20 @@
 			<image src="../../static/home/gengduo_41.png" mode=""></image>
 		</view>
 		<view class="liubai"></view>
+		<view class="comment">
+			<view class="title">
+				<text>用户评价(18)</text>
+				<text @click="gotoComment()">查看全部></text>
+			</view>
+			<view class="item">
+				<image class="h_img" src="../../static/home/roushi_27.png" mode=""></image>
+				<text>我叫马冬梅</text>
+				<image class="x_img" src="../../static/home/wujiaoxing_03.png" mode="" v-for="(item, index) in 5" :key="index"></image>
+			</view>
+		</view>
+		<view class="liubai"></view>
 		<view class="product_title"><text>热门店铺</text></view>
-		<view class="img_list"><image src="../../static/home/xiangjiao_23.png" mode="" v-for="(item, index) in 4" :key="index"></image></view>
+		<view class="img_list"><image src="../../static/home/xiangjiao_23.png" mode="" v-for="(item, index2) in 4" :key="index2"></image></view>
 		<view class="bottom">
 			<image src="../../static/home/weixin_07.png" mode=""></image>
 			<image src="../../static/home/dianhua_07.png" mode="" @click="callUp"></image>
@@ -98,6 +110,11 @@ export default {
 			uni.navigateTo({
 				url: '/pages/confirmOrder/confirmOrder'
 			});
+		},
+		gotoComment() {
+			uni.navigateTo({
+				url: '/pages/commentList/commentList'
+			});
 		}
 	}
 };
@@ -163,6 +180,36 @@ export default {
 		width: 100%;
 		height: 20upx;
 		background-color: #f7f7f7;
+	}
+	.comment {
+		width: 100%;
+		padding: 0 20upx;
+		box-sizing: border-box;
+		.title {
+			display: flex;
+			justify-content: space-between;
+			text:last-of-type {
+				color: #ed7180;
+			}
+		}
+		.item {
+			margin-top: 10upx;
+			display: flex;
+			align-items: center;
+			color: #999999;
+			.h_img {
+				height: 80upx;
+				width: 80upx;
+			}
+			.x_img {
+				margin-left: 10upx;
+				height: 30upx;
+				width: 30upx;
+			}
+			text {
+				margin-right: 280upx;
+			}
+		}
 	}
 	.guige {
 		width: 100%;

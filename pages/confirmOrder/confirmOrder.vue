@@ -27,6 +27,11 @@
 			<text>订单备注</text>
 			<input type="text" value="" placeholder="可输入备注,最多50个字" />
 		</view>
+		<view class="btn">
+			<text>待支付:</text>
+			<text>￥12.5</text>
+			<text>确认订单</text>
+		</view>
 	</view>
 </template>
 
@@ -116,6 +121,34 @@ export default {
 		align-items: center;
 		input{
 			margin-left: 20upx;
+		}
+	}
+	.btn{
+		position: fixed;
+		left: 0;
+		bottom: 0;
+		width: 100%;
+		height: 95upx;
+		display: flex;
+		align-items: center;
+		border-top: 1px solid #eeeeee;
+		text:first-of-type{
+			margin-left: 300upx;
+		}
+		text:nth-of-type(2){
+			margin-left: 10upx;
+			font-weight: bold;
+			color: rgb(227, 81, 97)
+		}
+		text:last-of-type{
+			margin-left: 15upx;
+			height: 70upx;
+			width: 190upx;
+			text-align: center;
+			line-height: 70upx;
+			background-color: #6d71d5;
+			border-radius: 10upx;
+			color: #ffffff;
 		}
 	}
 }

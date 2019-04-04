@@ -1,41 +1,5 @@
 (global["webpackJsonp"] = global["webpackJsonp"] || []).push([["common/vendor"],{
 
-/***/ "../../../../../Documents/HBuilderProjects/newUni-app/pages.json":
-/*!****************************************************************************!*\
-  !*** C:/Users/changjiapu/Documents/HBuilderProjects/newUni-app/pages.json ***!
-  \****************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-eval("\n\n//# sourceURL=C:/Users/changjiapu/Documents/HBuilderProjects/newUni-app/pages.json");
-
-/***/ }),
-
-/***/ "../../../../../Documents/HBuilderProjects/newUni-app/request/API/index.js":
-/*!**************************************************************************************!*\
-  !*** C:/Users/changjiapu/Documents/HBuilderProjects/newUni-app/request/API/index.js ***!
-  \**************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.getUserInfo = getUserInfo;var _index = __webpack_require__(/*! @/request/index.js */ \"../../../../../Documents/HBuilderProjects/newUni-app/request/index.js\");\nfunction getUserInfo() {\n  return (0, _index.getRequest)('/slides/getSlidesList').then(function (res) {return res;});\n}\n\n//# sourceURL=uni-app:///request/API/index.js?b2ed");
-
-/***/ }),
-
-/***/ "../../../../../Documents/HBuilderProjects/newUni-app/request/index.js":
-/*!**********************************************************************************!*\
-  !*** C:/Users/changjiapu/Documents/HBuilderProjects/newUni-app/request/index.js ***!
-  \**********************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-eval("/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, \"__esModule\", { value: true });exports.postRequest = postRequest;exports.getRequest = getRequest;function _objectSpread(target) {for (var i = 1; i < arguments.length; i++) {var source = arguments[i] != null ? arguments[i] : {};var ownKeys = Object.keys(source);if (typeof Object.getOwnPropertySymbols === 'function') {ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function (sym) {return Object.getOwnPropertyDescriptor(source, sym).enumerable;}));}ownKeys.forEach(function (key) {_defineProperty(target, key, source[key]);});}return target;}function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;}var baseUrl = 'http://114.115.211.170:8080/web/';\nfunction postRequest(data, url) {\n  return new Promise(function (resolve, reject) {\n    uni.request({\n      url: baseUrl + url,\n      method: 'post',\n      data: _objectSpread({},\n      data),\n\n      header: {\n        'content-type': 'application/x-www-form-urlencoded' },\n\n      success: function success(res) {\n        resolve(res);\n      } });\n\n  }).catch(function (err) {return console.log(err);});\n}\nfunction getRequest(url) {\n  return new Promise(function (resolve, reject) {\n    //uni.showLoading()\n    uni.request({\n      url: baseUrl + url,\n      method: 'get',\n      header: {\n        'content-type': 'application/x-www-form-urlencoded' },\n\n      success: function success(res) {\n        // uni.hideLoading()\n        resolve(res);\n      } });\n\n  }).catch(function (err) {return console.log(err);});\n}\n/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-app-plus/dist/index.js */ \"./node_modules/@dcloudio/uni-app-plus/dist/index.js\")[\"default\"]))\n\n//# sourceURL=uni-app:///request/index.js?b69e");
-
-/***/ }),
-
 /***/ "./node_modules/@dcloudio/uni-app-plus/dist/index.js":
 /*!***********************************************************!*\
   !*** ./node_modules/@dcloudio/uni-app-plus/dist/index.js ***!
@@ -91,6 +55,42 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ (function(module, exports) {
 
 eval("var g;\n\n// This works in non-strict mode\ng = (function() {\n\treturn this;\n})();\n\ntry {\n\t// This works if eval is allowed (see CSP)\n\tg = g || new Function(\"return this\")();\n} catch (e) {\n\t// This works if the window reference is available\n\tif (typeof window === \"object\") g = window;\n}\n\n// g can still be undefined, but nothing to do about it...\n// We return undefined, instead of nothing here, so it's\n// easier to handle this case. if(!global) { ...}\n\nmodule.exports = g;\n\n\n//# sourceURL=C:/Users/changjiapu/Desktop/HBuilderX.1.7.0.20190314.full/HBuilderX/plugins/uniapp-cli/node_modules/webpack/buildin/global.js");
+
+/***/ }),
+
+/***/ "D:\\西港项目\\newUni-app\\pages.json":
+/*!*************************************!*\
+  !*** D:/西港项目/newUni-app/pages.json ***!
+  \*************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\n\n//# sourceURL=D:/%E8%A5%BF%E6%B8%AF%E9%A1%B9%E7%9B%AE/newUni-app/pages.json");
+
+/***/ }),
+
+/***/ "D:\\西港项目\\newUni-app\\request\\API\\index.js":
+/*!***********************************************!*\
+  !*** D:/西港项目/newUni-app/request/API/index.js ***!
+  \***********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.getUserInfo = getUserInfo;var _index = __webpack_require__(/*! @/request/index.js */ \"D:\\\\西港项目\\\\newUni-app\\\\request\\\\index.js\");\nfunction getUserInfo() {\n  return (0, _index.getRequest)('/slides/getSlidesList').then(function (res) {return res;});\n}\n\n//# sourceURL=uni-app:///request/API/index.js?84fb");
+
+/***/ }),
+
+/***/ "D:\\西港项目\\newUni-app\\request\\index.js":
+/*!*******************************************!*\
+  !*** D:/西港项目/newUni-app/request/index.js ***!
+  \*******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, \"__esModule\", { value: true });exports.postRequest = postRequest;exports.getRequest = getRequest;function _objectSpread(target) {for (var i = 1; i < arguments.length; i++) {var source = arguments[i] != null ? arguments[i] : {};var ownKeys = Object.keys(source);if (typeof Object.getOwnPropertySymbols === 'function') {ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function (sym) {return Object.getOwnPropertyDescriptor(source, sym).enumerable;}));}ownKeys.forEach(function (key) {_defineProperty(target, key, source[key]);});}return target;}function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;}var baseUrl = 'http://114.115.211.170:8080/web/';\nfunction postRequest(data, url) {\n  return new Promise(function (resolve, reject) {\n    uni.request({\n      url: baseUrl + url,\n      method: 'post',\n      data: _objectSpread({},\n      data),\n\n      header: {\n        'content-type': 'application/x-www-form-urlencoded' },\n\n      success: function success(res) {\n        resolve(res);\n      } });\n\n  }).catch(function (err) {return console.log(err);});\n}\nfunction getRequest(url) {\n  return new Promise(function (resolve, reject) {\n    //uni.showLoading()\n    uni.request({\n      url: baseUrl + url,\n      method: 'get',\n      header: {\n        'content-type': 'application/x-www-form-urlencoded' },\n\n      success: function success(res) {\n        // uni.hideLoading()\n        resolve(res);\n      } });\n\n  }).catch(function (err) {return console.log(err);});\n}\n/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-app-plus/dist/index.js */ \"./node_modules/@dcloudio/uni-app-plus/dist/index.js\")[\"default\"]))\n\n//# sourceURL=uni-app:///request/index.js?6569");
 
 /***/ })
 

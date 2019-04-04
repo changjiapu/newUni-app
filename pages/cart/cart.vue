@@ -234,7 +234,6 @@ export default {
 	align-items: center;
 	justify-content: space-between;
 }
-
 .buy-btn .left {
 	margin-left: 25upx;
 	display: flex;

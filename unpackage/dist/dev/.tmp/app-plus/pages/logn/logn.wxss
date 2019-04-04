@@ -1,0 +1,69 @@
+.content.data-v-6d23a5f8 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 30rpx;
+}
+.content .logo.data-v-6d23a5f8 {
+  margin-top: 100rpx;
+  width: 235rpx;
+  height: 280rpx;
+}
+.content .input.data-v-6d23a5f8 {
+  margin-top: 30rpx;
+  height: 100rpx;
+  width: 620rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border: 1px solid #cccccc;
+  border-radius: 10rpx;
+  padding: 0 20rpx;
+}
+.content .input image.data-v-6d23a5f8 {
+  height: 35rpx;
+  width: 35rpx;
+}
+.content .btn.data-v-6d23a5f8 {
+  margin-top: 30rpx;
+  height: 100rpx;
+  line-height: 100rpx;
+  width: 620rpx;
+  border: 1px solid #cccccc;
+  border-radius: 10rpx;
+  background-color: #00a4e2;
+  color: #ffffff;
+  text-align: center;
+}
+.content .logn.data-v-6d23a5f8 {
+  margin-top: 20rpx;
+  padding: 0 40rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+

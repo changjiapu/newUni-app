@@ -1,2 +1,2 @@
 <import src="./suiguo_list.vue.wxml" />
-    <template is="304068df" data="{{ ...$root['0'], $root }}"/>
+    <template is="6714820c" data="{{ ...$root['0'], $root }}"/>
