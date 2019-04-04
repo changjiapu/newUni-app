@@ -1,0 +1,131 @@
+.content.data-v-ed0aea10 {
+  width: 100%;
+  font-size: 30rpx;
+  background-color: #f7f7f7;
+}
+.content .head.data-v-ed0aea10 {
+  padding: 0 30rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  height: 220rpx;
+  width: 100%;
+  color: #ffffff;
+  background-color: #6d71d5;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.content .head .img_1.data-v-ed0aea10 {
+  height: 130rpx;
+  width: 130rpx;
+}
+.content .head .img_2.data-v-ed0aea10 {
+  height: 40rpx;
+  width: 40rpx;
+}
+.content .head .msg.data-v-ed0aea10 {
+  margin-left: 20rpx;
+  width: 70%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.content .head .msg text.data-v-ed0aea10:first-of-type {
+  font-weight: bold;
+}
+.content .tabs.data-v-ed0aea10 {
+  border-radius: 10rpx;
+  padding: 0 20rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0 auto;
+  width: 90%;
+  height: 160rpx;
+  background-color: #ffffff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.content .tabs .item.data-v-ed0aea10 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.content .tabs .item image.data-v-ed0aea10 {
+  height: 35rpx;
+  width: 35rpx;
+}
+.content .GG.data-v-ed0aea10 {
+  width: 90%;
+  margin: 20rpx auto;
+  height: 220rpx;
+  background-image: url(../../static/img/dianpugonggao_03.097b78c5.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.content .list.data-v-ed0aea10 {
+  width: 90%;
+  margin: 0 auto;
+  padding: 0 20rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 20rpx;
+  margin-bottom: 30rpx;
+}
+.content .list .list_item.data-v-ed0aea10 {
+  height: 95rpx;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-bottom: 1px solid #dddddd;
+}
+.content .list .list_item image.data-v-ed0aea10:first-of-type {
+  height: 40rpx;
+  width: 40rpx;
+}
+.content .list .list_item image.data-v-ed0aea10:last-of-type {
+  height: 30rpx;
+  width: 30rpx;
+}
+.content .list .list_item text.data-v-ed0aea10 {
+  margin-left: 5%;
+  width: 85%;
+}
+

@@ -117,7 +117,7 @@ export default {
 			justify-content: center;
 			align-items: center;
 			image {
-				height: 35upx;
+				height: 45upx;
 				width: 35upx;
 			}
 		}

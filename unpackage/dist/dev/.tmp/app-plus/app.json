@@ -12,14 +12,17 @@
     "pages/confirmOrder/confirmOrder",
     "pages/commentList/commentList",
     "pages/shouHou/shouHou",
+    "pages/collect/collect",
+    "pages/zhuji/zhuji",
+    "pages/addressList/addressList",
     "pages/comment/comment"
   ],
   "subPackages": [],
   "window": {
-    "navigationBarTextStyle": "black",
+    "navigationBarTextStyle": "white",
     "navigationBarTitleText": "购物车",
-    "navigationBarBackgroundColor": "#F8F8F8",
-    "backgroundColor": "#F8F8F8"
+    "navigationBarBackgroundColor": "#6d71d5",
+    "backgroundColor": "#6d71d5"
   },
   "usingComponents": {},
   "tabBar": {

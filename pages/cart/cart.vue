@@ -225,7 +225,7 @@ export default {
 	width: 100%;
 	height: 100upx;
 	position: fixed;
-	bottom: 100upx;
+	bottom: 0;
 	background-color: #fff;
 	padding-bottom: 5px;
 	z-index: 2000;

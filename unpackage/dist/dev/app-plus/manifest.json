@@ -35,8 +35,8 @@
     },
     "statusbar": {
       "immersed": "supportedDevice",
-      "style": "dark",
-      "background": "#F8F8F8"
+      "style": "light",
+      "background": "#6d71d5"
     },
     "distribute": {
       "google": {
