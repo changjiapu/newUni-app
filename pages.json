@@ -55,7 +55,6 @@
 				}
 			}
 		},
-
 		{
 			"path": "pages/product_detaill/product_detaill",
 			"style": {
@@ -93,11 +92,84 @@
 			}
 		},
 		{
+			"path": "pages/ggList/ggList",
+			"style": {
+				"navigationBarTitleText": "公告信息"
+			}
+		},
+		{
 			"path": "pages/addressList/addressList",
 			"style": {
 				"navigationBarTitleText": "收货地址"
 			}
-		}, {
+		},
+		{
+			"path": "pages/ggDetail/ggDetail",
+			"style": {
+				"navigationBarTitleText": "公告信息"
+			}
+		},
+		{
+			"path": "pages/merchant/merchant",
+			"style": {
+				"navigationBarTitleText": "商家入驻"
+			}
+		},
+		{
+			"path": "pages/callCenter/callCenter",
+			"style": {
+				"navigationBarTitleText": "联系客服"
+			}
+		},
+		{
+			"path": "pages/Account_center/Account_center",
+			"style": {
+				"navigationBarTitleText": "账户安全"
+			}
+		},
+		{
+			"path": "pages/system_setup/system_setup",
+			"style": {
+				"navigationBarTitleText": "系统设置"
+			}
+		},
+		{
+			"path": "pages/cz_psssword/cz_psssword",
+			"style": {
+				"navigationBarTitleText": "重置登录密码"
+			}
+		},
+		{
+			"path": "pages/complain/complain",
+			"style": {
+				"navigationBarTitleText": "投诉"
+			}
+		},
+		{
+			"path": "pages/help/help",
+			"style": {
+				"navigationBarTitleText": "帮助中心"
+			}
+		},
+				{
+			"path": "pages/helpDetail/helpDetail",
+			"style": {
+				"navigationBarTitleText": "解决方案"
+			}
+		},
+		{
+			"path": "pages/complain_2/complain_2",
+			"style": {
+				"navigationBarTitleText": "意见反馈"
+			}
+		},
+		{
+			"path": "pages/About_Us/About_Us",
+			"style": {
+				"navigationBarTitleText": "关于我们"
+			}
+		},
+		{
 			"path": "pages/comment/comment",
 			"style": {
 				"navigationBarTitleText": "发表评价"
@@ -117,8 +189,8 @@
 		"backgroundColor": "#ffffff",
 		"list": [{
 				"pagePath": "pages/index/index",
-				"iconPath": "static/home/dingdanweixuanzhong_09.png",
-				"selectedIconPath": "static/home/dingdanxuanzhong_09.png",
+				"iconPath": "static/home/shouyeweixuanzhong_03.png",
+				"selectedIconPath": "static/home/shouye .png",
 				"text": "首页"
 			}, {
 				"pagePath": "pages/cart/cart",

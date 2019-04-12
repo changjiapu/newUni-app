@@ -1,5 +1,5 @@
 <template>
-	<view>
+	<view >
 		<!-- 			<view class='no-data' style='background-color:#f4f4f4' v-if='no_data'>
 				<image src="../../static/home/duanwaitao_07.png"></image>
 				<text>购物车为空，赶紧去逛逛吧~~</text>
@@ -225,7 +225,7 @@ export default {
 	width: 100%;
 	height: 100upx;
 	position: fixed;
-	bottom: 0;
+	bottom:0;
 	background-color: #fff;
 	padding-bottom: 5px;
 	z-index: 2000;

@@ -82,16 +82,17 @@
           align-items: center;
 }
 .content .tabs .item image.data-v-ed0aea10 {
-  height: 35rpx;
+  height: 45rpx;
   width: 35rpx;
 }
 .content .GG.data-v-ed0aea10 {
   width: 90%;
   margin: 20rpx auto;
   height: 220rpx;
-  background-image: url(../../static/img/dianpugonggao_03.097b78c5.png);
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
+}
+.content .GG image.data-v-ed0aea10 {
+  height: 100%;
+  width: 100%;
 }
 .content .list.data-v-ed0aea10 {
   width: 90%;

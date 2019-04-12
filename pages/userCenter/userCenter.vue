@@ -26,33 +26,33 @@
 				<text>我的分享</text>
 			</navigator>
 		</view>
-		<view class="GG"></view>
+		<navigator class="GG" url="/pages/ggList/ggList"><image src="../../static/home/dianpugonggao_03.png" mode=""></image></navigator>
 		<view class="list">
-			<view class="list_item">
+			<navigator class="list_item" url="/pages/merchant/merchant">
 				<image src="../../static/home/shangjiaruzhu_26.png" mode=""></image>
 				<text>商家入驻</text>
 				<image src="../../static/home/gengduo_41.png" mode=""></image>
-			</view>
-			<view class="list_item">
+			</navigator>
+			<navigator class="list_item" url="/pages/complain/complain">
 				<image src="../../static/home/tousujianyi_29.png" mode=""></image>
 				<text>投诉建议</text>
 				<image src="../../static/home/gengduo_41.png" mode=""></image>
-			</view>
-			<view class="list_item">
+			</navigator>
+			<navigator class="list_item" url="/pages/callCenter/callCenter">
 				<image src="../../static/home/kefuzhongxin_33.png" mode=""></image>
 				<text>客服中心</text>
 				<image src="../../static/home/gengduo_41.png" mode=""></image>
-			</view>
-			<view class="list_item">
+			</navigator>
+			<navigator class="list_item" url="/pages/Account_center/Account_center">
 				<image src="../../static/home/zhanghuanquan_37.png" mode=""></image>
 				<text>账户安全</text>
 				<image src="../../static/home/gengduo_41.png" mode=""></image>
-			</view>
-			<view class="list_item">
+			</navigator>
+			<navigator class="list_item" url="/pages/system_setup/system_setup">
 				<image src="../../static/home/xitongshezhi_41.png" mode=""></image>
 				<text>系统设置</text>
 				<image src="../../static/home/gengduo_41.png" mode=""></image>
-			</view>
+			</navigator>
 		</view>
 	</view>
 </template>
@@ -126,9 +126,10 @@ export default {
 		width: 90%;
 		margin: 20upx auto;
 		height: 220upx;
-		background-image: url('../../static/home/dianpugonggao_03.png');
-		background-repeat: no-repeat;
-		background-size: 100% 100%;
+		image {
+			height: 100%;
+			width: 100%;
+		}
 	}
 	.list {
 		width: 90%;
@@ -152,7 +153,7 @@ export default {
 				height: 30upx;
 				width: 30upx;
 			}
-			text{
+			text {
 				margin-left: 5%;
 				width: 85%;
 			}
